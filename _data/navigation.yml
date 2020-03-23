@@ -1,0 +1,8 @@
+- name: Home
+  link: /
+- name: About
+  link: /about.html
+- name: Photography
+  link: /photography.html
+- name: Blog
+  link: /blog.html
